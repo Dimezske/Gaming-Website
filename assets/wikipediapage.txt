@@ -1,0 +1,42 @@
+{{User sandbox}}
+<!-- EDIT BELOW THIS LINE -->
+// additional information
+Welcome to the DesertRush-v1.2 wiki! this file will wiki will tell you about the game and the mechanisms inside of the game first off we will tell you that the game was made using phaser 3 Web-pack and that it is a plat-former game, it is also going to be a multiplayer game first of all we will talk about the ideology of the game in here so lets get down to the virtual process of explaining in this wiki//
+
+'''Desert Rush''' ''is a 2D Platformer game'' [https://github.com/Dimezske/DesertRush-v1.2-old/wiki Desert Rush Wiki] 
+the general gist of this game is that it is based in a desert and the character you have is a Desert Warrior or a desert Ninja;[[File:Desert-rush-splash.png|thumb]] there environment since its a platformed based game there will be platforms and platformed ground as the warrior goes through the game the character will collect balls and gems and also there will be weapons the first weapon the desert ninja will get is a palm stick so that the player can attack then after then the player progresses and the player will upgrade there weapons and further on collecting stuff like scimitar swords and also with a good combat feat the player can collect creates opening them with attacking them with what ever weapon the player has and the creates will produce weapons from the military so that the player can equip weapons such as guns more-so as the player progresses oh did I mention that there will be baddies along the way and also encountering Monsters such as small cuddly not so cuddly monsters that attack you and that said with the progression of monsters there will be bigger and Badass monsters as well as baddies with guns, with all this said there's something left out oh did I mention that there will be shop stalls set up so that the player can collect items with there gems and balls to collect silver coins or bronze or bras or even gold coins that even more so have a collection of items that can be put into the desert ninjas back packs that they find and can also upgrade so that they can barter with other desert ninjas now this is enough said, I forgot that there are magic gifts too, spells that the desert ninjas can cast when they get enough experience points that is, now lets get down to it.
+
+'''Controls:'''
+the player controls are as followed;
+
+Use the *(arrow keys) to move: Up=jump, left=left, right=right, down=duck, complex buttons(the ninja can cliff hang on a ledge of a platform, how they do this is by walking into a platform and pressing 'W' to cling onto the wall, then the ninja can either pop down with 'S', or up with 'W'+ 'up'
+
+when the desert warrior collects: a stick they can press 'd' to swing an attack or press 'a' to block
+further on when the ninja gains access to military grade weapons the player can aim the weapon in a trigonometric sense secant line of projector y that can be aimed with the mouse and press the left arrow key to shoot, item switching has three slots '1','2','3, or 'q' to switch between melee or gun
+
+further down with have looting, this is where the player can collect miscellaneous furs, skins, bones, claws, fat, from monsters for eg;
+
+with baddies this is obvious the ninja collect guns and melee weapons and grenade from the baddie and also collect compound security keys(this is special because it generates a key pair file that can access Intel and operate JSON data of what's inside of a compound) and these keys can open stuff like security gates etc.
+
+the desert warrior can also open bartering with the player and also the player can collect wood and make a campsite during night time to project themselves while chatting or being away from the keyboard
+
+'''Magick Shinja and Sajina''' ''are magickal energy and spells, Shinja is for magickal spells, and Sajina is magickal chi energy''
+[[File:Shinja-map.png|thumb|]]
+
+{| class="wikitable"
+|+ Caption text
+|-
+! Shinja !! Sajina
+|-
+| Tiger Strike || Orange Balls
+|-
+| Lion Strike || Yellow Balls
+|-
+| Green Fawn || Green Balls
+|-
+| Blood Thirst || Red Balls
+|-
+| Blizzard Storm || Blue Balls
+|-
+| Drain Tendrils || Purple Balls
+|}
